@@ -1,1 +1,1 @@
-web: python app.py
+web: go run main.go
